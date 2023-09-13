@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Doctor Appointment System**
 
-- 👨‍💻 All of my projects are available at [Harshitbhardwaj.in](Harshitbhardwaj.in)
+- 👨‍💻 All of my projects are available at Harshitbhardwaj.in
 
 - 💬 Ask me about **Java,Kotlin,Php,Embedded C and JavaScript**
 
